@@ -4,5 +4,6 @@
 - https://realpython.com/python-data-cleaning-numpy-pandas/
 - http://pythonplot.com/
 - https://medium.com/python-pandemonium/introduction-to-exploratory-data-analysis-in-python-8b6bcb55c190
+- https://www.kaggle.com/ekami66/detailed-exploratory-data-analysis-with-python
 
 
