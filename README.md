@@ -5,5 +5,6 @@
 - http://pythonplot.com/
 - https://medium.com/python-pandemonium/introduction-to-exploratory-data-analysis-in-python-8b6bcb55c190
 - https://www.kaggle.com/ekami66/detailed-exploratory-data-analysis-with-python
+- http://www.developintelligence.com/blog/2017/08/data-cleaning-pandas-python/
 
 
