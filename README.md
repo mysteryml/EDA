@@ -7,5 +7,6 @@
 - https://www.kaggle.com/ekami66/detailed-exploratory-data-analysis-with-python
 - http://www.developintelligence.com/blog/2017/08/data-cleaning-pandas-python/
 - https://github.com/kojino/120-Data-Science-Interview-Questions
+- https://www.dezyre.com/article/100-data-science-interview-questions-and-answers-general-for-2018/184
 
 
