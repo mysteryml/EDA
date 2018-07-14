@@ -9,5 +9,6 @@
 - https://github.com/kojino/120-Data-Science-Interview-Questions
 - https://www.dezyre.com/article/100-data-science-interview-questions-and-answers-general-for-2018/184
 - https://www.simplilearn.com/data-science-interview-questions-article
+- https://www.kdnuggets.com/2016/02/21-data-science-interview-questions-answers.html
 
 
